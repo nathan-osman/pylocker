@@ -1,6 +1,6 @@
 ## pylocker
 
-https://github.com/nathan-osman/pylocker.git
+Short script to programatically lock or unlock the Unity desktop.
 
 ### Usage
 
